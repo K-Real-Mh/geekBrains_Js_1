@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c90b1d67-b0f8-4ca6-bccc-4643ecd7a1dc" name="Default Changelist" comment="hw4 done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qDM4RNGjvZCjNeGQuKYyg3KQ9J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kill Real\Desktop\Projects\Js_1\geekBrains_Js_1\task2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.load.html">
+    <configuration name="goToTop.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/geekBrains_Js_1/задания 3 уровня/4-кнопка_наверх/goToTop.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="load.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/geekBrains_Js_1/задания 3 уровня/5-имитация_загрузки_картинок/load.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="messages.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/geekBrains_Js_1/задания 3 уровня/1-удаление_блока_по_клику/messages.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="toCart.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/geekBrains_Js_1/задания 3 уровня/2-добавление_в_корзину/toCart.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="validation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/geekBrains_Js_1/задания 3 уровня/3-валидация_формы/validation.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.load.html" />
+        <item itemvalue="JavaScript Debug.goToTop.html" />
+        <item itemvalue="JavaScript Debug.validation.html" />
+        <item itemvalue="JavaScript Debug.toCart.html" />
+        <item itemvalue="JavaScript Debug.messages.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Part of hw4">
+      <created>1616535447898</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616535447898</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c90b1d67-b0f8-4ca6-bccc-4643ecd7a1dc" name="Default Changelist" comment="" />
+      <created>1616609521472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616609521472</updated>
+      <workItem from="1616609527505" duration="235000" />
+      <workItem from="1616609785798" duration="7999000" />
+      <workItem from="1616856109684" duration="10647000" />
+      <workItem from="1616956690220" duration="5952000" />
+    </task>
+    <task id="LOCAL-00002" summary="hw4 done">
+      <created>1616617616754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616617616754</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hw5 done">
+      <created>1616873630790</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616873630790</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Part of hw4" />
+    <MESSAGE value="hw4 done" />
+    <MESSAGE value="hw5 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw5 done" />
+  </component>
+</project>
